@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Welcome to Sunshine👋</h1>
 
 ###
 
@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Phuc from RMIT University<br><br>- 🔭 I’m a fresher at RMIT University<br>- 📚 I'm currently learning C#<br></p>
+<p align="left">I'm Phuc Huynh Tan from RMIT University<br><br>- 🔭 I’m a backend developer and interested in building apps and websites<br>- P/S: I'm still suck at Java📚 <br></p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Programming Language that I know: </h3>
 
 ###
 
