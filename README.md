@@ -60,20 +60,4 @@ Here are some ideas to get you started:
   <img src="images/js.png" height="40" alt="js logo"  />
   <img width="12" />
 
-###
 
-
-
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-
-<img src="https://raw.githubusercontent.com/phuchuynhtan4103131/phuchuynhtan4103131/output/snake.svg" alt="Snake animation" />
-
-###
