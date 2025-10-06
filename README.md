@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="images/c-#.png" height="40" alt="c# logo"  />
+  <img src="images/csharp.png" height="40" alt="c# logo"  />
   <img width="12" />
   <img src="images/java.png" height="40" alt="java logo"  />
   <img width="12" />
